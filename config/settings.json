@@ -5,13 +5,7 @@
     "edit",
     "write"
   ],
-  "packages": [
-    "npm:pi-mcp-adapter",
-    "npm:pi-web-access",
-    "npm:billion-context-pi",
-    "npm:pi-workspace-history",
-    "npm:@juicesharp/rpiv-ask-user-question"
-  ],
+  "packages": [],
   "workspaceHistory": {
     "enabled": true
   }

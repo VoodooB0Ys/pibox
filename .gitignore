@@ -1,0 +1,26 @@
+# PiBox ????/??????
+cache/
+home/
+tools/
+config/sessions/
+config/models.json
+config/models-store.json
+config/auth.json
+config/web-search.json
+config/custom-agents/
+config/extensions/
+config/plugins/
+config/skills/
+config/npm/
+config/pi-cache/
+
+# ??/??
+node_modules/
+.next/
+*.log
+*.bak
+
+# ??
+.pi/
+thumbs.db
+desktop.ini
